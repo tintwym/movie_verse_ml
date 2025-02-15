@@ -1,0 +1,11 @@
+# 不需要打包的文件和目录
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.git
+.DS_Store
+.vscode/
+.idea/
+tests/
